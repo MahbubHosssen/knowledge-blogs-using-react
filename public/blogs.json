@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/cv5SsFQ/7489233.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Jane Doe",
+      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+      "posted_date": "2024-01-15",
+      "reading_time": "7",
+      "hashTags": ["#space", "#astronomy", "#cosmos"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/HXGD0hp/2295.jpg",
+      "title": "The Art of Minimalism",
+      "author": "John Smith",
+      "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "posted_date": "2024-02-02",
+      "reading_time": "5",
+      "hashTags": ["#minimalism", "#lifestyle", "#design"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/fnxBMYD/2148604932.jpg",
+      "title": "A Guide to Sustainable Living",
+      "author": "Emily Clark",
+      "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+      "posted_date": "2024-03-10",
+      "reading_time": "8",
+      "hashTags": ["#sustainability", "#greenliving", "#ecofriendly"]
+    }
+]
+  
